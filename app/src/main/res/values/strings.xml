@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Museums</string>
+    <string name="wait">Please wait! This may take a moment.</string>
+    <string name="refresh">Refresh</string>
+    <string name="add">Add</string>
+    <string name="saved">Saved</string>
+</resources>
